@@ -1,7 +1,7 @@
 # Página da EuroTour
 Repositório criado para entrega de desafios do curso Proz-Joy
 
-# Página da EuroTour
+# Criação da Página
 
 Este é o código HTML para a página da EuroTour, um site que ajuda na organização de viagens para a Europa. Abaixo, estão comentários explicativos no código HTML:
 
