@@ -1,4 +1,4 @@
-# AULA-HTMLO1
+# Página da EuroTour
 Repositório criado para entrega de desafios do curso Proz-Joy
 
 # Página da EuroTour
